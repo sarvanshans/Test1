@@ -7,4 +7,3 @@ git add filename.ext  -- to save the temporary file, created during status updat
 git commit -m "User Notes" -- Commits all changes.
 git log -- to view the logs User Notes 
 git push origin master -- to pust master branch to remote
-
