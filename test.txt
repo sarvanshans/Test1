@@ -1,1 +1,22 @@
 Welcome to GIT WEB
+Here are the commands
+
+Public - free of cost 
+Private - Cost
+fork -- to make a copy of repository
+dir > file name .ext -- to create a file
+
+git config --global user.name "Trial"-- configure git account for git hub repository
+git config --global user.email ""
+clear -- clears GIT current session
+git status -- it updates the edited file & creates a temporary file.
+git add .  -- to save both files files
+git add filename.ext  -- to save the temporary file, created during status update.
+git commit -m "User Notes" -- Commits all changes.
+git log -- to view the logs User Notes 
+git push origin master -- to pust master branch to remote
+
+cd ~ /New Path/  -- to change the working directory
+git clone "give the repository weblink"
+git remote -v -- to view origin file
+git remote add origin "weblink" -- to add origin file if its not there
