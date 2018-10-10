@@ -8,7 +8,10 @@ git commit -m "User Notes" -- Commits all changes.
 git log -- to view the logs User Notes 
 git push origin master -- to pust master branch to remote
 
-cd ~ /New Path/  -- to change the working directory
-git clone "give the repository weblink"
-git remote -v -- to view origin file
-git remote add origin "weblink" -- to add origin file if its not there
+
+
+Azcssa
+
+scf
+as
+c
